@@ -11,6 +11,7 @@ TensorFlow for semantic image segmentation on the
  
 
 ## Setup
+Setup steps can be found at Setup.md
 ### Requirements:
 - tensorflow >=1.6
 - numpy
