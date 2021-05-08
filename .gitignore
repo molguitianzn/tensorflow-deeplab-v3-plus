@@ -114,3 +114,5 @@ dataset/inference_output/
 dataset/export_output
 # visual studio code
 .vscode/
+image_my/
+dataset/sample_images_list_2.txt
