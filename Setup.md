@@ -26,7 +26,6 @@ In fact, I also tried the opencv4.4.0.42 successfully, with the related version 
 ```
 pip install opencv-python==4.4.0.42
 pip install opencv-contrib-python==4.4.0.42
-
 ```
 Then matplotlib and pillow.
 ```
